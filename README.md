@@ -11,7 +11,7 @@ Business problem info
 
 ## Data Understanding
 
-Data info
+This public dataset is provided by the CrowdAnalytix community as part of their churn prediction competition. The real name of the telecom company is anonymized. It contains 20 predictor variables mostly about customer usage patterns. There are 3333 records in this dataset, out of which 483 customers are churners and the remaining 2850 are non-churners. Thus, the ratio of churners in this dataset is 14%.
 
 ## Data Preparation
 
